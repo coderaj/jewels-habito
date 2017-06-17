@@ -1,4 +1,4 @@
-# Habito
+# Jewels Habito
 
 ![License](https://img.shields.io/npm/l/express.svg)
 
