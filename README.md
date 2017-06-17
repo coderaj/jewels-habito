@@ -41,3 +41,4 @@ width="280" height="480">
 width="280" height="480" hspace="8">
 <img src="https://github.com/vanyaland/Habito/blob/master/screenshots/thumbs/widget-list.png"
 width="280" height="480">
+
